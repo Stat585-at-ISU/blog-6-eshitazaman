@@ -39,7 +39,7 @@ Write a blog post addressing the questions:
     2. **What are Keiding's main criticisms of the proposal?**. 
     Keiding's main critism of the proposal was about reproducing the exact result/calculations of the original paper. He said matching the calculation does not do any justice to the significance of the work. There is more since than just reproducing the results. Research should be problem driven rather than to be method driven. Better understanding of the problem, model selection, collaboration between the scientists and statistisian will only move science forward.
     3. **Which point in the commentaries speaks to you the most? Why?**
-    
+    I personally liked the commentary by Steven N. Goodman. He mentioned that the there is no way we can ignore the points mentioned by Keiding. But what Peng is proposing is also paves the way to build a netter data and code sharing framework. Steven N. Goodman mentioned few good reasons in his commentary like how sharing meaningful data can be helpful for the researchers and third party scrutinization of data will help the analysis to be more accurate. 
     
     7. **How does Keiding respond to the commentary you picked. What are his main points in his response?**
     
